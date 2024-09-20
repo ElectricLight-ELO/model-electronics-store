@@ -1,0 +1,14 @@
+[
+    {
+        "model": "efwrf",
+        "price": 30000,
+        "type": "TV",
+        "resolution": "4k"
+    },
+    {
+        "model": "ferwfre",
+        "price": 23023,
+        "type": "noteBook",
+        "processor": "intel"
+    }
+]
